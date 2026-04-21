@@ -6,6 +6,7 @@ A simple, elegant dashboard for your home server. Monitor Docker containers, dis
 *(Imagine a beautiful grid of service icons here)*
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,3 +24,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
