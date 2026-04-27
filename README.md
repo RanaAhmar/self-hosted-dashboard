@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/self-hosted-dashboard?style=for-the-badge)](https://github.com/RanaAhmar/self-hosted-dashboard/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/self-hosted-dashboard?style=for-the-badge)](https://github.com/RanaAhmar/self-hosted-dashboard/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/self-hosted-dashboard/blob/main/LICENSE)
+
 # 🏠 Self-Hosted Dashboard
 
 A simple, elegant dashboard for your home server. Monitor Docker containers, disk space, and service health. Created by **Ahmar Hussain** (**Stackaura**).
@@ -33,6 +35,13 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
 
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
 
-
+*If you find this project useful, please consider giving it a star! ⭐*
